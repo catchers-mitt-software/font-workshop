@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Miscellaneous
+draft/
+secrets/
+localdevicenotes.txt
+scratchpad.txt
+tempnotes.html
+tempnotes.md
