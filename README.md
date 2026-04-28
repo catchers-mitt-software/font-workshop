@@ -8,6 +8,9 @@ graphics (SVG) files measuring 350 pixels tall and 350 pixels wide for each
 character I want to include in the font, then I'll import those SVG files into 
 Font Forge.
 
+I'm proceeding according to 
+[the WikiHow tutorial](https://www.wikihow.com/Create-a-Font).
+
 ## Fonts started so far
 
 Currently all of these have too few characters to be usable for any text 
