@@ -20,9 +20,12 @@ English using no loanwords with accented characters (e.g., "pi&ntilde;ata",
 
 ### Calligraphic
 
-* Draft Brush Basic
+* Draft Brush Basic &mdash; Characters that look like they were drawn with brush 
+strokes. I intend to include the ASCII characters and very small and random 
+assortment of kanji.
 
 ### Sans serif
 
 * Basic Sans Serif
-* Stencil Sans Serif
+* Stencil Sans Serif &mdash; Characters that look like they come from stencils, 
+vaguely military. Will probably be ASCII only.
